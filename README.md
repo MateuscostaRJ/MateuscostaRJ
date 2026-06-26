@@ -2,7 +2,7 @@
 
 ## 'Desenvolvedor FullStack' ##
 
-Ola me chamo Mateus Costa Da Silva, tenho 20 anos de idade e moro no Rio de Janeiro. Concluí o ensino médio em escola publica, fiz curso técnico em ADM voltado pra linguagem de Excel intermediario na Instituiçao Senac Marechal floriano e atualmente estou cursando Técnologia da Computaçao na [UFF]. Sou apaixanado por técnologias e espero fazer parte de grandes projetos e empresas algum dia, compartilho meus projetos e interesses através do Linkedin "[Mateus](https://www.linkedin.com/in/mateus-costa-da-silva-0998b334a/)". Logo mais espero criar um canal nas redes sociais para falar sobre meus projetos e experiençias no ramo.
+Ola me chamo Mateus Costa Da Silva, tenho 20 anos de idade e moro no Rio de Janeiro. Concluí o ensino médio em escola publica, fiz curso técnico em ADM voltado pra linguagem de Excel intermediario na Instituiçao Senac Marechal floriano e atualmente estou cursando Técnologia da Computaçao na [UFF]. Sou apaixanado por técnologias e espero fazer parte de grandes projetos e empresas algum dia, compartilho meus projetos e interesses através do Linkedin "[Mateus](https://www.linkedin.com/in/mateus-costa-da-silva-0998b334a/)". Logo mais espero criar um canal nas redes sociais para falar sobre meus projetos e experiencias no ramo.
 
 
 <p 
